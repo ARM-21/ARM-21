@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arm-21</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **React,Nodejs**
+- 🌱 I’m currently learning **React,Nodejs,Express and mongoDB**
 
-- 💬 Ask me about **javascript,java,react**
+- 💬 Ask me about **javascript,java,react,Express**
 
 - 📫 How to reach me **manojneupane787@gmail.com**
 
