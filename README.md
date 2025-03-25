@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Neupane</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate developer from Nepal</h3>
 
 - 🌱 I’m currently learning **React,Nodejs,Express and mongoDB**
 
