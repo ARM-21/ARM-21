@@ -37,13 +37,27 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojneupane&show_icons=true&theme=dark" alt="manoj's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ARM-21&show_icons=true&theme=dark" alt="stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojneupane&layout=compact&theme=dark" alt="manoj's top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARM-21&layout=compact&theme=dark" alt="langs"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojneupane&theme=dark" alt="manoj's streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARM-21&theme=dark" alt="streak"/>
+</p>
+
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ARM-21&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+<h3 align="center">🐍 Snake Eating my Contributions</h3>
+<p align="center">
+  <img src="https://github.com/ARM-21/ARM-21/blob/output/snake.svg" alt="snake"/>
 </p>
