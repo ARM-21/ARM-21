@@ -12,7 +12,7 @@
   <a href="mailto:manojneupane787@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
+  <a href="https://linkedin.com/in/manoj-neupane-4079962b3" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
