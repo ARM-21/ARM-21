@@ -184,10 +184,6 @@ const manoj = {
 <a href="https://linkedin.com/in/manoj-neupane-4079962b3">
   <img src="https://img.shields.io/badge/LinkedIn-Manoj_Neupane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 </div>
 
 ---
