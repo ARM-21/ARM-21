@@ -1,61 +1,243 @@
-## <h1 align="center">Hi 👋, I'm Manoj Neupane</h1>
-### <p align="center"> A passionate developer </p>
----
 <div align="center">
-<h3>Connect with me:</h3>
+
+# 👋 Hi, I'm Manoj Neupane
+
 <p align="center">
-  <a href="mailto:manojneupane787@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/manoj-neupane-4079962b3" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Ethusiast;MERN+Stack+Specialist;Machine+Learning+Enthusiast;Building+Scalable+Solutions;;Open+to+Collaboration" alt="Typing SVG" />
 </p>
-</div>
-<h1 align="center">💻 Tech Stack</h1> 
 
-<div align="center">  
+### 🚀 Turning ideas into scalable solutions
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Multer](https://img.shields.io/badge/multer-%23404d59.svg?style=for-the-badge&logo=multer&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Java Servlet](https://img.shields.io/badge/java%20servlet-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/tomcat-%23F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23000.svg?style=for-the-badge&logo=linux&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-neupane-4079962b3)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojneupane787@gmail.com)
 
 </div>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARM-21&show_icons=true&theme=dark" alt="stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARM-21&layout=compact&theme=dark" alt="langs"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARM-21&theme=dark" alt="streak"/>
-</p>
+---
+
+## 👨‍💻 About Me
+
+I'm a developer with a strong foundation in both frontend and backend technologies, specializing in building end-to-end web applications. With expertise in the MERN stack, .NET ecosystem, and cloud infrastructure, I focus on creating scalable, performant solutions that solve real-world problems.
+
+```javascript
+const manoj = {
+    location: "Pokhara, Nepal 🇳🇵",
+    education: "Computer Science Student",
+    funFact: "I debug with console.log more than I'd like to admit 😄"
+};
+```
+
+## 🛠️ Tech Stack & Tools
+
+### Frontend Development
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
+
+### Backend Development
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java Servlet" />
+      <br>Servlets
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+      <br>.NET MAUI
+    </td>
+  </tr>
+</table>
+
+### Database & Storage
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+  </tr>
+</table>
+
+### Cloud & DevOps
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+  </tr>
+</table>
+
+### Tools & Platforms
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
+      <br>NPM
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARM-21&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+## 📊 GitHub Analytics
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARM-21&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ---
 
-<h3 align="center">🐍 Snake Eating my Contributions</h3>
-<p align="center">
-  <img src="https://github.com/ARM-21/ARM-21/blob/output/snake.svg" alt="snake"/>
-</p>
+## 💡 Skills Matrix
+
+<div align="center">
+
+| **Category** | **Technologies** | **Proficiency** |
+|:---:|:---:|:---:|
+| **Frontend** | React, Next.js, TypeScript| ⭐⭐⭐⭐⭐ |
+| **Backend** | Node.js, Express, Java | ⭐⭐⭐⭐⭐ |
+| **Database** | MongoDB, MySQL, PostgreSQL, Oracle | ⭐⭐⭐☆ ☆ |
+| **Cloud** | AWS (S3, CloudFront, IAM, EC2) | ⭐⭐⭐⭐☆ |
+| **DevOps** | Docker, Git, CI/CD, Linux | ⭐⭐☆ ☆ ☆ |
+
+
+</div>
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm always excited to discuss new projects, innovative ideas, or opportunities to collaborate on interesting challenges!
+
+**Available For:**
+- 🚀 Freelance projects (Web & Mobile Development)
+- 🤝 Open source collaboration
+- 💡 Technical mentorship and knowledge sharing
+- 🎤 Speaking engagements and tech talks
+
+### 📬 Reach Out
+
+<a href="mailto:manojneupane787@gmail.com">
+  <img src="https://img.shields.io/badge/Email-manojneupane787@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/manoj-neupane-4079962b3">
+  <img src="https://img.shields.io/badge/LinkedIn-Manoj_Neupane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/yourhandle">
+  <img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Facts About Me
+
+🎮 Gaming enthusiast | 📚  Spiritual Book reader |  🕊 Exploring about Inner World  
+
+---
+
+**💭 Quote**
+
+> "The only journey is the one within."
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+**Thanks for visiting! Pretty Soul**
+</div>
