@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Ethusiast;MERN+Stack+Specialist;Machine+Learning+Enthusiast;Building+Scalable+Solutions;;Open+to+Collaboration" alt="Typing SVG" />
 </p>
 
-### 🚀 Turning ideas into scalable solutions
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-neupane-4079962b3)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojneupane787@gmail.com)
-
 </div>
 
 ---
@@ -180,34 +175,7 @@ const manoj = {
 
 ---
 
-## 💡 Skills Matrix
-
-<div align="center">
-
-| **Category** | **Technologies** | **Proficiency** |
-|:---:|:---:|:---:|
-| **Frontend** | React, Next.js, TypeScript| ⭐⭐⭐⭐⭐ |
-| **Backend** | Node.js, Express, Java | ⭐⭐⭐⭐⭐ |
-| **Database** | MongoDB, MySQL, PostgreSQL, Oracle | ⭐⭐⭐☆ ☆ |
-| **Cloud** | AWS (S3, CloudFront, IAM, EC2) | ⭐⭐⭐⭐☆ |
-| **DevOps** | Docker, Git, CI/CD, Linux | ⭐⭐☆ ☆ ☆ |
-
-
-</div>
-
 ## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-I'm always excited to discuss new projects, innovative ideas, or opportunities to collaborate on interesting challenges!
-
-**Available For:**
-- 🚀 Freelance projects (Web & Mobile Development)
-- 🤝 Open source collaboration
-- 💡 Technical mentorship and knowledge sharing
-- 🎤 Speaking engagements and tech talks
-
-### 📬 Reach Out
 
 <a href="mailto:manojneupane787@gmail.com">
   <img src="https://img.shields.io/badge/Email-manojneupane787@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
