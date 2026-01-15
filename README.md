@@ -78,8 +78,8 @@ const manoj = {
       <br>Servlets
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Python" />
+      <br>NEST
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
@@ -103,14 +103,14 @@ const manoj = {
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
-    </td>
+    </td> -->
   </tr>
 </table>
 
