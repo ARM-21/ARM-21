@@ -107,7 +107,10 @@ const manoj = {
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-    
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+  <br>Oracle
+</td>
     <!-- <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
@@ -115,16 +118,18 @@ const manoj = {
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
-    </td> -->
+    </td>  -->
   </tr>
 </table>
 
 ### ORM & ODM
 <table>
+  <tr>
    <td align="center" width="96">
-     ![Mongoose](https://skillicons.dev/icons?i=mongoose)
-      <br>Mongoose
-    </td>
+  <img src="https://img.icons8.com/color/48/mongoose.png" width="48" height="48" alt="Mongoose" />
+  <br>Mongoose
+</td>
+  </tr>
 </table>
 
 ### Cloud & DevOps
