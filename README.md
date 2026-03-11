@@ -111,14 +111,14 @@ const manoj = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
   <br>Oracle
 </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
-    </td>  -->
+    </td> 
   </tr>
 </table>
 
