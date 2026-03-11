@@ -181,6 +181,10 @@ const manoj = {
       <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
       <br>NPM
     </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pnpm" width="48" height="48" alt="PNPM" />
+      <br>PNPM
+    </td>
   </tr>
 </table>
 
