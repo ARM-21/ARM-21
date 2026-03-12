@@ -81,10 +81,6 @@ const manoj = {
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java Servlet" />
       <br>Servlets
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Python" />
-      <br>NEST
-    </td>
     <!-- <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
       <br>C#
@@ -184,6 +180,15 @@ const manoj = {
       <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pnpm" width="48" height="48" alt="PNPM" />
       <br>PNPM
+    </td>
+  </tr>
+</table>
+### Exploring
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="VS Code" />
+      <br>VS Code
     </td>
   </tr>
 </table>
