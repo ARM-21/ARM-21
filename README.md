@@ -82,7 +82,7 @@ const manoj = {
 
 ## Let's Connect
 
-- Email: `manojneupane787@gmail.com`
+- Email: `hello@manojn.com.np`
 - LinkedIn: `https://linkedin.com/in/manoj-neupane-4079962b3`
 ---
 
