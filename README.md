@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:manojneupane787@gmail.com">
-    <img src="https://img.shields.io/badge/Email-manojneupane787%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:hello@manojn.com.np">
+    <img src="https://img.shields.io/badge/Email-hello%40com.np-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/manoj-neupane-4079962b3">
     <img src="https://img.shields.io/badge/LinkedIn-Manoj%20Neupane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
