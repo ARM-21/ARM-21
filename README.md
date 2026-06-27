@@ -70,16 +70,6 @@ const manoj = {
   <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
 </p>
 
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARM-21&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## Let's Connect
 
 - Email: `hello@manojn.com.np`
